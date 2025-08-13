@@ -21,7 +21,6 @@ My work lies at the intersection of:
 - Computer Vision
 - Medical Imaging
 - Machine Learning
-- Neuroscience
 - Statistical Analysis
 
 ## 📫 Let's Connect!
