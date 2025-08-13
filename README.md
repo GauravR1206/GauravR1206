@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a PhD student specializing in **Medical Image Analysis** and **Statistical Interpretation**. My research focuses on advancing our understanding of complex medical data through cutting-edge computational methods.
+I'm a PhD student in **Medical Image Analysis** and **Statistical Interpretation Lab**. My research focuses on advancing our understanding of complex medical data through cutting-edge computational methods.
 
 ## 🧠 Research Interests
 
