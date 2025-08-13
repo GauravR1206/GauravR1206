@@ -33,6 +33,9 @@ I'm always interested in discussing research, collaborating on projects, or shar
 
 ## 📺 Featured Work
 
-<!-- Video will be added here -->
-[Your video description will go here]
+![Demo](output.gif)
+
+*Research demonstration - showcasing medical image analysis workflow*
+
+**Full Quality Version:** [Download MP4](output.mp4) for higher resolution viewing
 
