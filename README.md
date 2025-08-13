@@ -31,11 +31,10 @@ I'm always interested in discussing research, collaborating on projects, or shar
 
 *"Understanding the brain through data - one image at a time."*
 
-## 📺 Featured Work
+## 📺 Spinning exploding brain
 
 ![Demo](output.gif)
 
-*Research demonstration - showcasing medical image analysis workflow*
 
 **Full Quality Version:** [Download MP4](output.mp4) for higher resolution viewing
 
